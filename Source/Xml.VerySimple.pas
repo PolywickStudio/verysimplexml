@@ -828,6 +828,9 @@ var
   Line: String;
   Indent: String;
 begin
+  if Node.Name = #13#10 then
+    exit;
+
   if (Node = Root.ChildNodes.First) or (SkipIndent) then
   begin
     Line := '<';
