@@ -1,3 +1,7 @@
+Please note:
+This is VerySimpleXML used with our customers, with XML-errors fixed.
+
+
 VerySimpleXML v2.0.5 - a lightweight, one-unit, cross-platform XML reader/writer
 for Delphi 2010 - 10.3.2 by Dennis Spreen
 http://blog.spreendigital.de/2014/09/13/verysimplexml-2-0/
