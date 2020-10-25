@@ -1,0 +1,8 @@
+*.dcu
+*.exe
+*.local
+*.dsk
+*.identcache
+*.skincfg
+Error1/Xml.VerySimple.pas
+Error1/Xml.VerySimpleFIXED.pas

@@ -1,0 +1,34 @@
+<mso:customUI xmlns:x1="http://schemas.microsoft.com/office/2009/07/customui/macro" xmlns:mso="http://schemas.microsoft.com/office/2009/07/customui" xmlns:x2="KwikDocs.CoKwikDocs">
+  <mso:ribbon>
+    <mso:qat>
+      <mso:sharedControls>
+        <mso:control idQ="mso:AutoSaveSwitch" visible="true"/>
+        <mso:control idQ="mso:FileNewDefault" visible="false"/>
+        <mso:control idQ="mso:FileOpenUsingBackstage" visible="false"/>
+        <mso:control idQ="mso:FileSave" visible="true"/>
+        <mso:control idQ="mso:FileSendAsAttachment" visible="false"/>
+        <mso:control idQ="mso:FilePrintQuick" visible="false"/>
+        <mso:control idQ="mso:PrintPreviewAndPrint" visible="false"/>
+        <mso:control idQ="mso:WritingAssistanceCheckDocument" visible="false"/>
+        <mso:control idQ="mso:ReadAloud" visible="false"/>
+        <mso:control idQ="mso:Undo" visible="true"/>
+        <mso:control idQ="mso:RedoOrRepeat" visible="true"/>
+        <mso:control idQ="mso:TableDrawTable" visible="false"/>
+        <mso:control idQ="mso:PointerModeOptions" visible="true"/>
+        <mso:control idQ="mso:FieldInsert" visible="true"/>
+        <mso:control idQ="mso:BuildingBlocksOrganizer" visible="true"/>
+        <mso:control idQ="mso:SaveSelectionToAutoTextGallery" visible="true"/>
+        <mso:button idQ="x1:OneInchQuotes_1" visible="true" label="Normal.NewMacros.OneInchQuotes" imageMso="RmsNavigationBar" onAction="OneInchQuotes"/>
+        <mso:button idQ="x1:RestartNums_1" visible="true" label="Normal.NewMacros.RestartNums" imageMso="MsnLogo" onAction="RestartNums"/>
+        <mso:control idQ="mso:StyleGalleryClassic" visible="true"/>
+        <mso:control idQ="x2:kdBtnBlankDoc" visible="true"/>
+      </mso:sharedControls>
+    </mso:qat>
+    <mso:tabs>
+      <mso:tab idQ="x2:kdNumbering"/>
+      <mso:tab idQ="x2:kdCUQ"/>
+    </mso:tabs>
+  </mso:ribbon>
+</mso:customUI>
+<
+/>
